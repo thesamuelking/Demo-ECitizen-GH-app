@@ -1,0 +1,5 @@
+{
+  "cmake.sourceDirectory": "C:/Users/user/Downloads/Ecitizen2/flutter_app/windows/flutter",
+  "python.envFile": "${workspaceFolder}/backend/.env",
+  "python.terminal.useEnvironmentFile": true
+}
